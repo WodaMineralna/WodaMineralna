@@ -69,7 +69,7 @@
 ## 📚 Course Repos / Roadmap
 
 | Stack        | Repository | Description | Status |
-|--------------|:------------:|-------------|:------------:|
+|:------------:|:------------:|-------------|:------------:|
 | ⚛️ React.js | [React.js Course Hub](https://github.com/WodaMineralna/react-course-hub) | Index of projects completed during the Academind React.js course | ✅ Done |
 | 🟢 Node.js   | [Node.js Course Hub](https://github.com/WodaMineralna/node-course-hub) | Index of projects completed during the Academind Node.js course | 🟡 In progress |
 | 🍃 MongoDB   | [MongoDB Course Hub](https://github.com/WodaMineralna/mongodb-course-hub) | Planned hub for projects from MongoDB course | 🔜 Planned |
