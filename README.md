@@ -10,8 +10,8 @@
 
 ## 🚀 About Me
 
-- 🎓 Bachelor's degree student in IT (since 2024)
-- 🌱 Developing skills in **React.js, Node.js, Express.js, MongoDB**
+- 🎓 Bachelor's degree student in IT (2024-2027)
+- 🌱 Developing skills in **React.js, Node.js, Express.js, MongoDB, TypeScript**
 - 📚 Expanding knowledge in **CI/CD, Git, GitHub Actions, DevOps fundamentals**
 - 🎯 Currently going through Academind’s **Node.js course by Maximilian Schwarzmüller**
 - <img src="https://flagcdn.com/w20/pl.png" alt="Poland flag" width="20" />&thinsp;&nbsp;From Poland 
