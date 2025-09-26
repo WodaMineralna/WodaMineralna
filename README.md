@@ -72,9 +72,9 @@
 |:------------:|:------------:|-------------|:------------:|
 | ⚛️ React.js | [React.js Course Hub](https://github.com/WodaMineralna/react-course-hub) | Index of projects completed during the Academind React.js course | ✅ Done |
 | 🟢 Node.js   | [Node.js Course Hub](https://github.com/WodaMineralna/node-course-hub) | Index of projects completed during the Academind Node.js course | 🟡 In progress |
+| 🟦 TypeScript | [TypeScript Course Hub](https://github.com/WodaMineralna/typescript-course-hub) | Planned hub for projects from TypeScript course | 🔜 Next |
 | 🍃 MongoDB   | [MongoDB Course Hub](https://github.com/WodaMineralna/mongodb-course-hub) | Planned hub for projects from MongoDB course | 🔜 Planned |
 | 🌐 MERN Stack | [MERN Course Hub](https://github.com/WodaMineralna/mern-course-hub) | Planned hub for projects from full-stack MERN course | 🔜 Planned |
-| 🟦 TypeScript | [TypeScript Course Hub](https://github.com/WodaMineralna/typescript-course-hub) | Planned hub for projects from TypeScript course | 🔜 Planned |
 
 ---
 
