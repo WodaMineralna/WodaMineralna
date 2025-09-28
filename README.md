@@ -82,7 +82,7 @@
 
 🔹 [Food Order App](https://github.com/WodaMineralna/S19-Practice-Project-Building-a-Food-Order-App) - A food ordering web app **built from scratch** as a course challenge; practicing React, component composition, state management, and UI design.  
 <br>
-🔹 [Dynamic Routes & Advanced Models](https://github.com/WodaMineralna/S09-Dynamic-Routes-and-Advanced-Models) - Node.js project developed alongside a course, with independently implemented functionalities; focused on routing, dynamic routes, and MVC. First repo where I applied **Conventional Commits** for structured commit history.  
+🔹 [Dynamic Routes & Advanced Models](https://github.com/WodaMineralna/S09-Dynamic-Routes-and-Advanced-Models) - Node.js project developed alongside a course, with independently implemented functionalities written from scratch; focused on routing, dynamic routes and MVC. First repo where I applied **Conventional Commits** for structured commit history.  
 <br>
 🔹 _(First major personal project incoming - stay tuned!)_
 
