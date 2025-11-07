@@ -55,7 +55,6 @@
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/MongoDB-47a248?logo=mongodb&logoColor=white">
-      <img src="https://img.shields.io/badge/MySQL-005c84?logo=mysql&logoColor=white">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
