@@ -112,7 +112,7 @@ I enjoy regular strength training as a way to stay active.
 ---
 
 ## 📫 Contact
-Let’s connect! 🚀
+Let’s connect!
 - 📧 [Email](mailto:contact.kowalczyki@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/igorkowalczykdev)
 
