@@ -14,7 +14,7 @@
 - 🌱 Developing skills in **React.js, Node.js, Express.js, MongoDB, TypeScript**
 - 📚 Expanding knowledge in **CI/CD, Git, GitHub Actions, DevOps fundamentals**
 - 🎯 Currently going through Academind’s **Node.js course by Maximilian Schwarzmüller**
-- <img src="https://flagcdn.com/w20/pl.png" alt="Poland flag" width="20" />&thinsp;&nbsp;From Poland 
+- <img src="https://flagcdn.com/w20/pl.png" alt="Poland flag" width="20" />&thinsp;&nbsp;From Poland, Warsaw 
 - 🤝 Open to work as **Junior Frontend / Web Developer or Intern**
 - ♟️ Chess and 🏋️ Fitness enthusiast
 
